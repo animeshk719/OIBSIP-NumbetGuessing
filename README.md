@@ -1,7 +1,5 @@
 # OIBSIP-NumbetGuessing
-
 import javax.swing.*;
-
 public class NumberGuessing {
     public static void main(String[] args) {
         int computeNumber = (int) (Math.random() * 100 + 1);
